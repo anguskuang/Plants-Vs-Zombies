@@ -1,1 +1,4 @@
-# Plants-Vs-Zombies
+PlantsVsZombies
+===============
+
+Simpla Javascript Plants vs Zombies game
